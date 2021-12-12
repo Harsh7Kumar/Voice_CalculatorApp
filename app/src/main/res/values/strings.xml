@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="todo">TODO</string>
+    <string name="speech_not_supported" />
+    <string name="speech_" />
+    <string name="speech_prompt">prompt</string>
+</resources>
